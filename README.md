@@ -1,8 +1,8 @@
-B.S. Applied Mathematics, Computer Science Minor from Baylor University.
+**B.S. Applied Mathematics, Computer Science Minor from Baylor University.
 
-M.S. Statistics, Financial Risk concentration from Rice University.
+**M.S. Statistics, Financial Risk concentration from Rice University.
 
-Experience with Python, R, SQL.
+**Experience with Python, R, SQL.
 
 
 *Undergraduate Research*  
