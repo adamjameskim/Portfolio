@@ -1,3 +1,5 @@
+![alt text](hhttps://github.com/adamjameskim/adamjameskim.github.io/face.jpg "Adam James Kim")
+
 **B.S. Applied Mathematics, Computer Science Minor from Baylor University.**
 
 **M.S. Statistics, Financial Risk concentration from Rice University.**
