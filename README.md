@@ -1,12 +1,10 @@
-Adam Kim.
+# B.S. Applied Mathematics, Computer Science Minor from Baylor University.
 
-B.S. Applied Mathematics, Computer Science Minor from Baylor University.
+# M.S. Statistics, Financial Risk concentration from Rice University.
 
-M.S. Statistics, Financial Risk concentration from Rice University.
+## Experience with Python, R, SQL.
 
-Experience with Python, R, SQL.
-
-Python
+*Python*
 
 [K-Means](kmeans.html)
 
@@ -18,7 +16,7 @@ Python
 
 [LDA Research Part II](lda_part2.html)
 
-R
+*R*
 
 [Hierarchical Clustering](hclustering_R.html)
 
