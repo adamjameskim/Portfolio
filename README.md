@@ -1,4 +1,4 @@
-![alt text](hhttps://github.com/adamjameskim/adamjameskim.github.io/face.jpg "Adam James Kim")
+![alt text](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/face.jpg "Adam James Kim")
 
 **B.S. Applied Mathematics, Computer Science Minor from Baylor University.**
 
