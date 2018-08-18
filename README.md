@@ -4,11 +4,13 @@ M.S. Statistics, Financial Risk concentration from Rice University.
 
 Experience with Python, R, SQL.
 
+
 *Undergraduate Research*  
 
 [LDA Research Part I](lda_part1.html)  
 
 [LDA Research Part II](lda_part2.html)  
+
 
 *Python*  
 
@@ -17,6 +19,7 @@ Experience with Python, R, SQL.
 [Hierarchical Clustering](hclustering_python.html)  
 
 [DBSCAN Algorithm](dbscan.html) 
+
 
 *R*  
 
