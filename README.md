@@ -8,7 +8,7 @@ Experience with Python, R, SQL.
 
 [K-Means](kmeans.html)
 
-[Hierarchical Clustering](hclustering.html]
+[Hierarchical Clustering](hclustering.html)
 
 [DBSCAN Algorithm](dbscan.html)
 
