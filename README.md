@@ -10,9 +10,9 @@ ___
 
 *Undergraduate Research*  
 
-[LDA Research Part I](lda_part1.html)  
+[Latent Dirichlet Allocation: Stability Metric Proposal](lda_part1.html)  
 
-[LDA Research Part II](lda_part2.html)  
+[Latent Dirichlet Allocation: Generative Corpus Proposal](lda_part2.html)  
 
 ___
 
