@@ -4,6 +4,7 @@
 
 **Experience with Python, R, SQL.**
 
+___
 
 *Undergraduate Research*  
 
@@ -11,6 +12,7 @@
 
 [LDA Research Part II](lda_part2.html)  
 
+___
 
 *Python*  
 
@@ -20,6 +22,7 @@
 
 [DBSCAN Algorithm](dbscan.html) 
 
+___
 
 *R*  
 
