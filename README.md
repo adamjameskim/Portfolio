@@ -18,7 +18,7 @@ ___
 
 *Python*  
 
-[K-Means](kmeans.html)  
+[K-Means](kmeans.ipynb)  
 
 [Hierarchical Clustering](hclustering_python.html)  
 
