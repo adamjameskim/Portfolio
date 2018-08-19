@@ -14,8 +14,6 @@ ___
 
 [Latent Dirichlet Allocation: Generative Corpus Proposal](lda_part2.html)  
 
-___
-
 *Python*  
 
 [K-Means for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/python3/PY_kmeans.ipynb)  
@@ -25,8 +23,6 @@ ___
 [DBSCAN Algorithm for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/python3/PY_dbscan.ipynb) 
 
 [Comparison of Options Pricing Frameworks (CRR , BSM, Monte carlo)](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/python3/PY_options_pricing.ipynb) 
-
-___
 
 *R*  
 
