@@ -20,9 +20,9 @@ ___
 
 [K-Means for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/kmeans.ipynb)  
 
-[Hierarchical Clustering for clustering gene expressions]](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/agnes.ipynb)  
+[Hierarchical Clustering for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/agnes.ipynb)  
 
-[DBSCAN Algorithm for clustering gene expressions]](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/dbscan.ipynb) 
+[DBSCAN Algorithm for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/dbscan.ipynb) 
 
 ___
 
