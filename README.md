@@ -10,9 +10,7 @@ ___
 
 *Undergraduate Research*  
 
-[Latent Dirichlet Allocation: Stability Metric Proposal](lda_part1.html)  
-
-[Latent Dirichlet Allocation: Generative Corpus Proposal](lda_part2.html)  
+[Latent Dirichlet Allocation: Generated Corpus Proposal for K-Stabilization](lda_part1.html)
 
 *Python*  
 
