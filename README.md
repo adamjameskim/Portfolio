@@ -18,18 +18,18 @@ ___
 
 *Python*  
 
-[K-Means for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/kmeans.ipynb)  
+[K-Means for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/python3/PY_kmeans.ipynb)  
 
-[Hierarchical Clustering for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/agnes.ipynb)  
+[Hierarchical Clustering for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/python3/PY_agnes.ipynb) 
 
-[DBSCAN Algorithm for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/dbscan.ipynb) 
+[DBSCAN Algorithm for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/python3/PY_dbscan.ipynb) 
 
 ___
 
 *R*  
 
-[Hierarchical Clustering on the Fortune 500](hclustering_R.html)  
+[Hierarchical Clustering on the Fortune 500](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_hclust.ipynb) 
 
-[Random Forest for Credit Card Default Prediction](credit_card_def_R.html)  
+[Random Forest for Credit Card Default Prediction](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_randomforest.ipynb) 
 
-[Principal Component Analysis on Newspaper Headline Sentiment Types](pca.html)
+[Principal Component Analysis on Newspaper Headline Sentiment Types](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_pca.ipynb) 
