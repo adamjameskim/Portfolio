@@ -18,18 +18,18 @@ ___
 
 *Python*  
 
-[K-Means](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/kmeans.ipynb)  
+[K-Means for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/kmeans.ipynb)  
 
-[Hierarchical Clustering](hclustering_python.html)  
+[Hierarchical Clustering for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/agnes.ipynb)  
 
-[DBSCAN Algorithm](dbscan.html) 
+[DBSCAN Algorithm for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/dbscan.ipynb) 
 
 ___
 
 *R*  
 
-[Hierarchical Clustering](hclustering_R.html)  
+[Hierarchical Clustering on the Fortune 500](hclustering_R.html)  
 
-[Random Forest](credit_card_def_R.html)  
+[Random Forest for Credit Card Default Prediction](credit_card_def_R.html)  
 
-[Principal Component Analysis](pca.html)
+[Principal Component Analysis on Newspaper Headline Sentiment Types](pca.html)
