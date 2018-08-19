@@ -18,7 +18,7 @@ ___
 
 *Python*  
 
-[K-Means](kmeans.ipynb)  
+[K-Means](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/kmeans.ipynb)  
 
 [Hierarchical Clustering](hclustering_python.html)  
 
