@@ -20,9 +20,9 @@ ___
 
 [K-Means](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/kmeans.ipynb)  
 
-[Hierarchical Clustering](hclustering_python.html)  
+[Hierarchical Clustering](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/agnes.ipynb)  
 
-[DBSCAN Algorithm](dbscan.html) 
+[DBSCAN Algorithm](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/dbscan.ipynb) 
 
 ___
 
