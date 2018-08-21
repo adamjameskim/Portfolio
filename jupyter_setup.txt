@@ -1,0 +1,4 @@
+https://irkernel.github.io/installation/#linux-panel
+
+https://help.github.com/articles/working-with-jupyter-notebook-files-on-github
+
