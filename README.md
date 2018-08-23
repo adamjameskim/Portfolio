@@ -28,4 +28,4 @@ ___
 
 [Random Forest for Credit Card Default Prediction](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_randomforest.ipynb) 
 
-[Comparing News Sentiment Analyzers](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_ds1.md) 
+[Comparing News Sentiment Analyzers](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_ds1.html) 
