@@ -14,7 +14,7 @@ ___
 [Latent Dirichlet Allocation: Generated Corpus Proposal for K-Stabilization](lda_part1.html)
 -->
 
-*Python*  
+**Python**  
 
 [K-Means for clustering gene expressions](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/python3/PY_kmeans.ipynb)  
 
@@ -24,7 +24,7 @@ ___
 
 [Comparison of Options Pricing Frameworks (CRR , BSM, Monte carlo)](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/python3/PY_options_pricing.ipynb) 
 
-*R*  
+**R**  
 
 [Hierarchical Clustering on the Fortune 500](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/r_hclust.md) 
 
