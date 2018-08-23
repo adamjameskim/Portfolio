@@ -8,9 +8,11 @@
 
 ___
 
+<!--
 *Undergraduate Research*  
 
 [Latent Dirichlet Allocation: Generated Corpus Proposal for K-Stabilization](lda_part1.html)
+-->
 
 *Python*  
 
@@ -24,8 +26,8 @@ ___
 
 *R*  
 
-[Hierarchical Clustering on the Fortune 500](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_hclust.ipynb) 
+[Hierarchical Clustering on the Fortune 500](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_hclust.md) 
 
-[Random Forest for Credit Card Default Prediction](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_randomforest.ipynb) 
+<!--[Random Forest for Credit Card Default Prediction](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_randomforest.ipynb)--> 
 
 [Comparing News Sentiment Analyzers](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/r_ds1.md) 
