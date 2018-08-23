@@ -26,7 +26,7 @@ ___
 
 *R*  
 
-[Hierarchical Clustering on the Fortune 500](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_hclust.md) 
+[Hierarchical Clustering on the Fortune 500](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/r_hclust.md) 
 
 <!--[Random Forest for Credit Card Default Prediction](https://github.com/adamjameskim/adamjameskim.github.io/blob/master/R/R_randomforest.ipynb)--> 
 
