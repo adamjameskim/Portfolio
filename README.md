@@ -1,7 +1,5 @@
 # Adam Kim
 
-**M.S. Statistics, Financial Risk concentration from Rice University, expected graduatation in Dec 2019.**
-
 **B.S. Applied Mathematics, Computer Science Minor from Baylor University, graduated May 2018**
 
 **Experience with Python, R, SQL.**
